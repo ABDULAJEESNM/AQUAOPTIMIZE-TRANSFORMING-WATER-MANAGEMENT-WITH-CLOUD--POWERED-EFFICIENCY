@@ -15,8 +15,8 @@ DHT dht(DHTPIN, DHTTYPE);
 // Relay pump
 const int RELAY_PIN = 35;
 
-const char* ssid = "Deepthyka";
-const char* password = "11122002";
+const char* ssid = "ABDULAJEES";
+const char* password = "Your Password";
 const char* mqttServer = "broker.emqx.io"; // MQTT broker address
 const int mqttPort = 1883; // MQTT broker port
 const char* mqttUser = ""; // MQTT username (if required)
